@@ -8,7 +8,7 @@ To provide valuable insights for both Airbnb hosts and travelers looking to visi
 - Which neighbourhoods have the highest average listings prices per night?
 - Who are the top hosts in terms of total listings count ? What types of listings they own?
 
-#### * If the Plotly visualizations are not visible in the IPYNB file, please check the following link : https://nbviewer.org/github/amalsu0/Data-Scientist-Project1/blob/main/project%201.ipynb
+#### * If the Plotly visualizations are not visible in the IPYNB file, please check the following link : 
 
 ### Requirements:
 To run this code, you will need to have the following libraries installed:
