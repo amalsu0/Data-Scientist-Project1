@@ -12,9 +12,9 @@ To provide valuable insights for both Airbnb hosts and travelers looking to visi
 
 ### Requirements:
 To run this code, you will need to have the following libraries installed:
-Pandas
-NumPy
-Plotly
+- Pandas
+- NumPy
+- Plotly
 
 ### Installation:
 You can install the required libraries using pip. 
